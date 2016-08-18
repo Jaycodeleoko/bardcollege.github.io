@@ -40,8 +40,14 @@ var rules = {
     "What do you think about computers?",
     "What do you think machines have to do with your problem?",
   ],
+  "~*x music ~*y": [
+  	"Music is the most amazing creation",
+  	"What about music makes you jump instantly for joy?",
+  	"Music is a universal language. A language almost like code, it's self. A notion that transcends language, if anything",
+  ],
   "~*x name ~*y": [
     "I am not interested in names",
+    "Names are insignificant in the greater scheme of things",
   ],
   "~*x sorry ~*y": [
     "Please don't apologize",
